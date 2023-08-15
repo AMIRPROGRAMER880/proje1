@@ -1,0 +1,608 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"te",
+				"text-transform\tproperty"
+			],
+			[
+				"b",
+				"bold\tfont-weight"
+			],
+			[
+				"f",
+				"font-weight\tproperty"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			],
+			[
+				"s",
+				"script"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"S",
+				"script"
+			],
+			[
+				"m",
+				"margin\tproperty"
+			],
+			[
+				"bo",
+				"border-color\tproperty"
+			],
+			[
+				"t",
+				"transform\tproperty"
+			],
+			[
+				"tr",
+				"transition\tproperty"
+			],
+			[
+				"text",
+				"text-transform\tproperty"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"pa",
+				"placeholder\tAttr"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"l",
+				"link\tTag"
+			],
+			[
+				"i",
+				"item"
+			],
+			[
+				"p",
+				"play"
+			],
+			[
+				"c",
+				"createElement"
+			],
+			[
+				"g",
+				"getElementById"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"to",
+				"todole"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"a",
+				"alert"
+			],
+			[
+				"trans",
+				"transition\tproperty"
+			],
+			[
+				"ma",
+				"margin-left\tproperty"
+			],
+			[
+				"gri",
+				"grid-template-rows\tproperty"
+			],
+			[
+				"bor",
+				"border-width\tproperty"
+			],
+			[
+				"bord",
+				"border-color"
+			],
+			[
+				"hr",
+				"hr\tTag"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"sty",
+				"style"
+			],
+			[
+				"tra",
+				"transition\tproperty"
+			],
+			[
+				"border-r",
+				"border-right\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"tee",
+				"text-decoration\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"TE",
+				"text-align\tproperty"
+			],
+			[
+				"se",
+				"section\tTag"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"k",
+				"kon"
+			],
+			[
+				"o",
+				"Object"
+			],
+			[
+				"fi",
+				"first"
+			],
+			[
+				"fu",
+				"fuck"
+			],
+			[
+				"color",
+				"color1"
+			],
+			[
+				"sc",
+				"script\tTag"
+			],
+			[
+				"si",
+				"sikim2"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"mr",
+				"margin\tproperty"
+			],
+			[
+				"fonts",
+				"font-style\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"gi",
+				"grid-gap\tproperty"
+			],
+			[
+				"F",
+				"F3AAAA"
+			],
+			[
+				"grident",
+				"linear-gradient"
+			],
+			[
+				"gr",
+				"grid-row\tproperty"
+			],
+			[
+				"ce",
+				"container"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"ra",
+				"border-radius\tproperty"
+			],
+			[
+				"border",
+				"border-color\tproperty"
+			],
+			[
+				"bod",
+				"border-width\tproperty"
+			],
+			[
+				"borde",
+				"border-color\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"mi",
+				"minlength\tAttr"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"A",
+				"alt\tAttr"
+			],
+			[
+				"bcac",
+				"background-color\tproperty"
+			],
+			[
+				"st",
+				"list-style\tproperty"
+			],
+			[
+				"ter",
+				"text-transform\tproperty"
+			],
+			[
+				"clo",
+				"color\tproperty"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"ti",
+				"this"
+			],
+			[
+				"v",
+				"value"
+			],
+			[
+				"colo",
+				"color1"
+			],
+			[
+				"ps",
+				"password"
+			],
+			[
+				"al",
+				"align-items\tproperty"
+			],
+			[
+				"d",
+				"display\tproperty"
+			],
+			[
+				"grid",
+				"grid-column-start\tproperty"
+			],
+			[
+				"grid-t",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"bore",
+				"border-width\tproperty"
+			],
+			[
+				"CO",
+				"col"
+			],
+			[
+				"pi",
+				"position\tproperty"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"fle",
+				"flex-wrap\tproperty"
+			],
+			[
+				"bl",
+				"black"
+			],
+			[
+				"bs",
+				"border-image-source\tproperty"
+			],
+			[
+				"U",
+				"UL\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/ASUS/Desktop/script.js",
+		"/C/Users/ASUS/Desktop/style.css",
+		"/C/Users/ASUS/Desktop/in.html",
+		"/C/Users/ASUS/Desktop/fuckbootstrap/index.html",
+		"/C/Users/ASUS/Desktop/index.html",
+		"/C/Users/ASUS/Desktop/amir/script.js",
+		"/C/Users/ASUS/Desktop/amir/style.css",
+		"/C/Users/ASUS/Desktop/amir/index.html",
+		"/C/Users/ASUS/Desktop/12. DOM/فایل ها/ویدیوی سوم/style.css",
+		"/C/Users/ASUS/Desktop/12. DOM/فایل ها/ویدیوی سوم/script.js",
+		"/C/Users/ASUS/Desktop/12. DOM/فایل ها/ویدیوی سوم/index.html",
+		"/C/Users/ASUS/Desktop/11. Javascript/تمرین ها/7. ویدیوی هفتم/answer.js",
+		"/C/Users/ASUS/Desktop/11. Javascript/تمرین ها/6. ویدیوی ششم/2. جواب.js",
+		"/C/Users/ASUS/Desktop/11. Javascript/تمرین ها/5. ویدیوی پنجم/2. answer.js",
+		"/C/Users/ASUS/Desktop/11. Javascript/تمرین ها/3. ویدیوی سوم/1. تمرین یک.txt",
+		"/C/Users/ASUS/Desktop/8. Bootstrap , Templates and the landing page/فایل ها/StartUp starter file/index.html",
+		"/C/Users/ASUS/Desktop/b.html",
+		"/C/Users/ASUS/Desktop/a.html",
+		"/C/Users/ASUS/Desktop/ip.html",
+		"/C/Users/ASUS/Desktop/ipa.html",
+		"/C/Users/ASUS/Desktop/IP2.HTML",
+		"/C/Users/ASUS/Desktop/ip1.html",
+		"/C/Users/ASUS/Desktop/ip2.html",
+		"/C/Users/ASUS/Desktop/ip1",
+		"/C/Users/ASUS/Desktop/ipf.html",
+		"/C/Users/ASUS/Desktop/id.html",
+		"/C/Users/ASUS/Desktop/New folder/style.css",
+		"/C/Users/ASUS/Desktop/New folder/index.html",
+		"/C/Users/ASUS/Desktop/New folder/script.js",
+		"/C/Users/ASUS/Desktop/12. DOM/فایل ها/ویدیوی چهارم/style.css",
+		"/C/Users/ASUS/Desktop/index.htm",
+		"/C/Users/ASUS/Desktop/i.html",
+		"/C/Users/ASUS/Desktop/i.tml",
+		"/C/Users/ASUS/Desktop/c.html",
+		"/C/Users/ASUS/Desktop/style2.css",
+		"/C/Users/ASUS/Desktop/indrex.html",
+		"/C/Users/ASUS/Desktop/style4.css",
+		"/C/Users/ASUS/Desktop/style3.css",
+		"/C/Users/ASUS/Desktop/s.css",
+		"/C/Users/ASUS/Downloads/s.css",
+		"/C/Users/ASUS/Downloads/index.html",
+		"/C/Users/ASUS/Downloads/style.css",
+		"/C/Users/ASUS/Downloads/bot.html",
+		"/C/Users/ASUS/Downloads/login.html",
+		"/C/Users/ASUS/Downloads/style2.css",
+		"/C/Users/ASUS/Downloads/f.html",
+		"/C/Users/ASUS/Documents/index.html",
+		"/C/Users/ASUS/Downloads/13. Advanced JS/تمرین ها/6. ویدیوی نهم/1.2 جواب.js",
+		"/C/Users/ASUS/Downloads/13. Advanced JS/تمرین ها/5. ویدیوی هشتم/2.2 جواب.js",
+		"/C/Users/ASUS/Downloads/13. Advanced JS/تمرین ها/5. ویدیوی هشتم/1.2 جواب.js",
+		"/C/Users/ASUS/Downloads/13. Advanced JS/تمرین ها/4. ویدیوی چهارم/1.2 SOLUTIONS .js",
+		"/C/Users/ASUS/Downloads/13. Advanced JS/تمرین ها/3. ویدیوی سوم/1.2 SOLUTIONS.js",
+		"/C/Users/ASUS/Downloads/13. Advanced JS/تمرین ها/3. ویدیوی سوم/1.1 تمرین.docx",
+		"/C/Users/ASUS/Downloads/13. Advanced JS/تمرین ها/2. ویدیوی دوم/1.2 SOLUTIONS.js",
+		"/C/Users/ASUS/Downloads/13. Advanced JS/تمرین ها/1. ویدیوی اول/2.2 SOLUTIONS 2 .js",
+		"/C/Users/ASUS/Downloads/13. Advanced JS/تمرین ها/1. ویدیوی اول/1.2 SOLUTIONS 1.js",
+		"/C/Users/ASUS/Downloads/12. DOM/فایل ها/ویدیوی چهارم/style.css",
+		"/C/Users/ASUS/Downloads/script.js",
+		"/C/Users/ASUS/Downloads/script,js",
+		"/C/Users/ASUS/Downloads/12. DOM/فایل ها/ویدیوی سوم/index.html",
+		"/C/Users/ASUS/Downloads/12. DOM/فایل ها/ویدیوی سوم/style.css",
+		"/C/Users/ASUS/Downloads/12. DOM/فایل ها/ویدیوی سوم/script.js",
+		"/C/Users/ASUS/Downloads/12. DOM/فایل ها/ویدیوی سوم/Selectors.txt",
+		"/C/Users/ASUS/Downloads/script2.js",
+		"/C/Users/ASUS/Downloads/11. Javascript/تمرین ها/6. ویدیوی ششم/2. جواب.js",
+		"/C/Users/ASUS/Downloads/11. Javascript/تمرین ها/5. ویدیوی پنجم/2. answer.js",
+		"/C/Users/ASUS/Downloads/style.css.css",
+		"/C/Users/ASUS/Downloads/styl.css",
+		"/C/Users/ASUS/Desktop/لندینگ پیج/index.html",
+		"/C/Users/ASUS/Downloads/index2.html",
+		"/C/Users/ASUS/Downloads/stryle.css",
+		"/C/Users/ASUS/Downloads/about.html",
+		"/C/Users/ASUS/Downloads/syle2.css",
+		"/C/Users/ASUS/Downloads/syle3.css",
+		"/C/Users/ASUS/Downloads/fuck.html",
+		"/C/Users/ASUS/Downloads/inex.html"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 78.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
